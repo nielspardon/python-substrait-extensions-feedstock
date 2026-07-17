@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.96.0"
+  version: "0.97.0"
 
 package:
   name: python-substrait-extensions
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/substrait-extensions/substrait_extensions-${{ version }}.tar.gz
-  sha256: 822e19493797c99728d4a35ccaff79991bd0d07c8d29fad7f0d16827136cbaa9
+  sha256: f769f320f942408816cea554865664e06fe960823e1cd029aebb8b951efb8fc3
 
 build:
   number: 0
